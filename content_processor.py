@@ -9,6 +9,7 @@ from typing import Optional
 from config import Config
 from pydantic import BaseModel
 import boto3
+from botocore.exceptions import BotoCoreError, ClientError
 
 class ProcessedItem(BaseModel):
     url: str
@@ -119,13 +120,27 @@ class ContentProcessor:
             "max_tokens": 3000,
             "temperature": 0.2
         })
-        response = self.bedrock.invoke_model(
-            modelId=Config.bedrock_model_id,
-            body=body
-        )
-        raw = response['body'].read()
-        parsed = json.loads(raw)
-        return parsed['content'][0]['text']
+
+        max_retries = 5
+        backoff_base = 2
+
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = self.bedrock.invoke_model(
+                    modelId=Config.bedrock_model_id,
+                    body=body
+                )
+                raw = response['body'].read()
+                parsed = json.loads(raw)
+                return parsed['content'][0]['text']
+            except (BotoCoreError, ClientError, json.JSONDecodeError, KeyError) as e:
+                print(f"[WARN] Attempt {attempt}: Claude invocation failed: {e}")
+                if attempt == max_retries:
+                    print("[ERROR] All retries failed.")
+                    raise
+                sleep_time = backoff_base ** attempt + random.uniform(0, 1)
+                print(f"[INFO] Retrying after {sleep_time:.2f}s...")
+                time.sleep(sleep_time)
 
     @staticmethod
     def normalize_url(url: str) -> str:
