@@ -1,28 +1,43 @@
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
 
 class Config:
-    firecrawl_api_key = os.getenv("FIRECRAWL_API_KEY_V2")
-    firecrawl_api_url = "https://api.firecrawl.dev/v1"
+    # API Keys
+    FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY_V2")
+    FIRECRAWL_API_URL = "https://api.firecrawl.dev/v1"
     
-    target_urls = [
-        # "https://www.elsegundo.org/",
-        "https://311.sanantonio.gov/kb/docs/private/graffiti-and-waste-collection/grow-over-graffiti",
+    # AWS Settings
+    AWS_REGION = os.getenv("AWS_REGION", "us-east-2")
+    AWS_S3_BUCKET = os.getenv("AWS_S3_BUCKET", "genai-poc-s3-bucket")
+    BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", 
+        "arn:aws:bedrock:us-east-2:358607849468:inference-profile/us.anthropic.claude-3-7-sonnet-20250219-v1:0")
+    
+    # Target URLs - Add your city websites here
+    TARGET_URLS = [
+        "https://www.elsegundo.org/",
+        "https://311.sanantonio.gov/",
+        "https://www.sanantonio.gov/",
+        # Add more city websites as needed
     ]
-
-    # output_dir_raw = "crawler_output"
-    # output_dir_llm = "llm_output"
     
-    # compressed_raw = "crawler_output.tar.gz"
-    # compressed_llm = "llm_output.tar.gz"
+    # Output directories
+    OUTPUT_RAW = "output/raw"
+    OUTPUT_STRUCTURED = "output/structured"
     
-    output_dir_raw = "crawler_output_test"
-    output_dir_llm = "llm_output_test"
+    # Archive names
+    ARCHIVE_RAW = "city_data_raw.tar.gz"
+    ARCHIVE_STRUCTURED = "city_data_structured.tar.gz"
     
-    compressed_raw = "crawler_output_test.tar.gz"
-    compressed_llm = "llm_output_test.tar.gz"
-
-    aws_region = "us-east-2"
-    bedrock_model_id = "arn:aws:bedrock:us-east-2:358607849468:inference-profile/us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+    # Scraping settings
+    MAX_DEPTH = 5
+    TIMEOUT = 30
+    RETRY_ATTEMPTS = 3
+    
+    @classmethod
+    def setup_directories(cls):
+        """Create output directories"""
+        Path(cls.OUTPUT_RAW).mkdir(parents=True, exist_ok=True)
+        Path(cls.OUTPUT_STRUCTURED).mkdir(parents=True, exist_ok=True)
