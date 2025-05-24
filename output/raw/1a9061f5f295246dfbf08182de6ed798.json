@@ -1,0 +1,122 @@
+{
+  "url": "",
+  "content_hash": "1a9061f5f295246dfbf08182de6ed798",
+  "raw_text": "# Pending Planning Projects - City of El Segundo\n\nHere you can find additional information on pending Planning Projects within the City of El Segundo. For all general inquiries and related matters, please visit our [EZ Permit Hub](https://elsegundoca.portal.opengov.com/categories/1078) to submit any inquiries to Planning Division.\n\nTo sign up for updates related to zoning, projects, CEQA, Planning Commission, and other planning topics please click [here](https://public.govdelivery.com/accounts/CAELSEGUNDO/subscriber/new).\n\n## Grand Kansas North (EA - 1353)\n\n**Current Status:** Preparation and Distribution of Initial Study and NOP.\n\n**Project Details:** New construction of a residential building comprised of 323 rental units within 3 to 6 story building and 490 parking spaces in a 6 story Type IA parking structure located at 330 Kansas Street, 348 Kansas Street, and 1521 East Grand Avenue.\n\n**Project History:**\n- [Norice of Preparation (NOP) of an Environmental Impact Report and Public Scoping Meeting](https://www.elsegundo.org/home/showpublisheddocument/10208/638742607630170000)\n- [Amended Notice of Preparation (NOP)](https://www.elsegundo.org/home/showpublisheddocument/10388/638767563739970000)\n- [Initial Study](https://www.elsegundo.org/home/showpublisheddocument/10222/638743398094630000)\n- [Scoping Meeting Power Point Presentation (2/26/2025)](https://www.elsegundo.org/home/showpublisheddocument/10364/638761844510570000)\n- [Scoping Meeting Video 2/26/2025](https://youtube.com/live/e6xc3grwT_A)\n\n**Supporting Documents:**\n- [Proposed Project Plans](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c60750ec-44f8-49a6-836e-7c82905e665e)\n\nFor additional information contact [Planning Manager, Eduardo Schonborn, AICP](mailto:eschonborn@elsegundo.org) at 310-524-2312.\n\n## 201-209 Richmond Street Mixed Use Project(EA - 1299)\n\n**Current Status:** The project will require a Parking Demand Study to implement the parking mechanism in addition to a new Downtown Design Review application approval. Application has been deemed incomplete until all required information is provided to City Staff.\n\n**Project Details:**\n\n**Project History:**\n\n**Supporting Documents:** Not available yet.\n\nFor additional information contact [Assistant Planner, Maria Baldenegro](mailto:mbaldenegro@elsegundo.org) at 310-524-2341.\n\n## Grand Kansas South (EA - 1371)\n\n**Current Status:** Proposed 102,000 SQFT office project withdrawn by applicant.\n\nFor additional information contact [Planning Manager, Eduardo Schonborn, AICP](mailto:eschonborn@elsegundo.org) at 310-524-2312.\n\n## 703 N. Pacific Coast Hwy Mixed Use Project (EA 1325)\n\n**Current Status:** Application submitted\n\n**Project Details:** New construction of an 8-level mixed-use building with 11,257 square feet of commercial space on the ground level, 191 parking spaces on levels 2-4, and 79 residential units (rental) on levels 5-8. The project is located at 703 North Pacific Coast Hwy at the northwest corner of Palm Ave. and Pacific Coast Hwy.\n\n**Project History:**\n\n**Supporting Documents:**\n\nFor additional information contact Principal Planner, Paul Samaras, AICP at psamaras@elsegundo.org or 310-524-2340.",
+  "structured_data": {
+    "overview": "Information page about pending planning projects in the City of El Segundo, including project details, current status, and contact information for various development projects.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Division"
+    ],
+    "services": [
+      "Planning Project Information",
+      "EZ Permit Hub"
+    ],
+    "contacts": [
+      {
+        "name": "Eduardo Schonborn",
+        "title": "Planning Manager, AICP",
+        "phone": "310-524-2312",
+        "email": "eschonborn@elsegundo.org",
+        "department": "Planning Division"
+      },
+      {
+        "name": "Maria Baldenegro",
+        "title": "Assistant Planner",
+        "phone": "310-524-2341",
+        "email": "mbaldenegro@elsegundo.org",
+        "department": "Planning Division"
+      },
+      {
+        "name": "Paul Samaras",
+        "title": "Principal Planner, AICP",
+        "phone": "310-524-2340",
+        "email": "psamaras@elsegundo.org",
+        "department": "Planning Division"
+      }
+    ],
+    "meetings": [
+      {
+        "title": "Scoping Meeting",
+        "date": "2/26/2025",
+        "time": "",
+        "location": "",
+        "agenda": "Grand Kansas North Project"
+      }
+    ],
+    "documents": [
+      {
+        "title": "Notice of Preparation (NOP) of an Environmental Impact Report and Public Scoping Meeting",
+        "type": "Planning Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10208/638742607630170000",
+        "description": "For Grand Kansas North project"
+      },
+      {
+        "title": "Amended Notice of Preparation (NOP)",
+        "type": "Planning Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10388/638767563739970000",
+        "description": "For Grand Kansas North project"
+      },
+      {
+        "title": "Initial Study",
+        "type": "Planning Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10222/638743398094630000",
+        "description": "For Grand Kansas North project"
+      },
+      {
+        "title": "Scoping Meeting Power Point Presentation",
+        "type": "Presentation",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10364/638761844510570000",
+        "description": "From 2/26/2025 meeting"
+      },
+      {
+        "title": "Scoping Meeting Video",
+        "type": "Video",
+        "url": "https://youtube.com/live/e6xc3grwT_A",
+        "description": "From 2/26/2025 meeting"
+      },
+      {
+        "title": "Proposed Project Plans",
+        "type": "Planning Document",
+        "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c60750ec-44f8-49a6-836e-7c82905e665e",
+        "description": "For Grand Kansas North project"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": true,
+      "description": "Sign up for updates related to zoning, projects, CEQA, Planning Commission, and other planning topics",
+      "requirements": [],
+      "benefits": [
+        "Receive updates on planning topics"
+      ]
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The page lists four pending planning projects: 1) Grand Kansas North (EA-1353): 323 rental units in 3-6 story building with 490 parking spaces, 2) 201-209 Richmond Street Mixed Use Project (EA-1299): Application incomplete pending Parking Demand Study, 3) Grand Kansas South (EA-1371): 102,000 SQFT office project withdrawn by applicant, 4) 703 N. Pacific Coast Hwy Mixed Use Project (EA 1325): 8-level mixed-use building with commercial space, parking, and 79 residential units."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 361,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079389"
+}

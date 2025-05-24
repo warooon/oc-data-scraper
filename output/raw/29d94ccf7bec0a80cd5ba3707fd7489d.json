@@ -1,0 +1,91 @@
+{
+  "url": "",
+  "content_hash": "29d94ccf7bec0a80cd5ba3707fd7489d",
+  "raw_text": "# Bicycle Master Plan - El Segundo\n\nThe South Bay Bicycle Master Plan is intended to guide the development and maintenance of a comprehensive bicycle network and set of programs throughout Cities in the South Bay, including El Segundo. The Bicycle Master Plan covers several cities in South Bay. The documents found below contain El Segundo-specific information.\n\n## Documents\n\n- [Bicycle Master Plan - Foreword and Executive Summary](https://www.elsegundo.org/home/showpublisheddocument/1159/637145121270830000)\n- [Bicycle Master Plan - Chapter 1 Introduction](https://www.elsegundo.org/home/showpublisheddocument/1161/637145121276770000)\n- [Bicycle Master Plan - Chapter 2 Goals, Objectives, and Policy Actions](https://www.elsegundo.org/home/showpublisheddocument/1169/637145121293170000)\n- [Bicycle Master Plan - Chapter 3 El Segundo](https://www.elsegundo.org/home/showpublisheddocument/1171/637145121298470000)\n- [Bicycle Master Plan - Chapter 10 Recommended Programs](https://www.elsegundo.org/home/showpublisheddocument/1163/637145121280670000)\n- [Bicycle Master Plan - Chapter 11 Wayfinding and Signage Plan](https://www.elsegundo.org/home/showpublisheddocument/1165/637145121285830000)\n- [Bicycle Master Plan - Chapter 12 Funding](https://www.elsegundo.org/home/showpublisheddocument/1167/637145121289430000)\n\nFree viewers are required for some of the attached documents.\nThey can be downloaded by clicking on the icons below.",
+  "structured_data": {
+    "overview": "The South Bay Bicycle Master Plan guides the development and maintenance of a comprehensive bicycle network and programs throughout South Bay cities, including El Segundo. The plan covers multiple cities but the referenced documents contain El Segundo-specific information.",
+    "city_name": "El Segundo",
+    "departments": [],
+    "services": [],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "Bicycle Master Plan - Foreword and Executive Summary",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1159/637145121270830000",
+        "description": "Foreword and executive summary of the Bicycle Master Plan"
+      },
+      {
+        "title": "Bicycle Master Plan - Chapter 1 Introduction",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1161/637145121276770000",
+        "description": "Introduction chapter of the Bicycle Master Plan"
+      },
+      {
+        "title": "Bicycle Master Plan - Chapter 2 Goals, Objectives, and Policy Actions",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1169/637145121293170000",
+        "description": "Goals, objectives, and policy actions for the Bicycle Master Plan"
+      },
+      {
+        "title": "Bicycle Master Plan - Chapter 3 El Segundo",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1171/637145121298470000",
+        "description": "El Segundo specific chapter of the Bicycle Master Plan"
+      },
+      {
+        "title": "Bicycle Master Plan - Chapter 10 Recommended Programs",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1163/637145121280670000",
+        "description": "Recommended programs chapter of the Bicycle Master Plan"
+      },
+      {
+        "title": "Bicycle Master Plan - Chapter 11 Wayfinding and Signage Plan",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1165/637145121285830000",
+        "description": "Wayfinding and signage plan chapter of the Bicycle Master Plan"
+      },
+      {
+        "title": "Bicycle Master Plan - Chapter 12 Funding",
+        "type": "planning document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1167/637145121289430000",
+        "description": "Funding chapter of the Bicycle Master Plan"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "Free viewers are required for some of the attached documents. They can be downloaded by clicking on the icons below."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 145,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079889"
+}

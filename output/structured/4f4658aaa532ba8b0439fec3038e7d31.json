@@ -1,0 +1,67 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "Information page about the Planning Division's active projects in the City of El Segundo, including resources for approved and pending projects, and how to sign up for updates on planning topics.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Division",
+      "Community Development"
+    ],
+    "services": [
+      "Development Planning Projects",
+      "EZ Permit Hub"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [],
+    "news": [],
+    "forms": [
+      {
+        "name": "Planning Updates Signup",
+        "type": "signup",
+        "purpose": "To receive updates related to zoning, projects, CEQA, Planning Commission, and other planning topics",
+        "url": "https://public.govdelivery.com/accounts/CAELSEGUNDO/subscriber/new",
+        "fields": [],
+        "requirements": []
+      }
+    ],
+    "signup_info": {
+      "available": true,
+      "description": "Sign up for updates related to zoning, projects, CEQA, Planning Commission, and other planning topics",
+      "requirements": [],
+      "benefits": [
+        "Updates on zoning",
+        "Updates on projects",
+        "Updates on CEQA",
+        "Updates on Planning Commission",
+        "Updates on other planning topics"
+      ]
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The Planning Division provides resources for viewing approved projects and pending projects within the city. Citizens can submit inquiries to the Planning Division through the EZ Permit Hub portal."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 69,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079558"
+}

@@ -1,0 +1,190 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "The Planning Commission is a five-member body of El Segundo residents who serve four-year terms without limits. They make decisions on applications like Conditional Use Permits, Subdivisions and Variances, and provide recommendations to the City Council on planning matters.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Commission",
+      "City Clerk's office"
+    ],
+    "services": [
+      "Planning Commission meetings",
+      "Public records requests"
+    ],
+    "contacts": [],
+    "meetings": [
+      {
+        "title": "Planning Commission Meeting",
+        "date": "06/12/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "06/26/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "07/10/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "07/24/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "08/14/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "08/28/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "09/11/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "09/25/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "10/09/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "10/23/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "11/13/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting Cancelled",
+        "date": "11/27/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting",
+        "date": "12/11/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      },
+      {
+        "title": "Planning Commission Meeting Cancelled",
+        "date": "12/25/2025",
+        "time": "5:30 PM - 10:00 PM",
+        "location": "",
+        "agenda": ""
+      }
+    ],
+    "documents": [
+      {
+        "title": "Planning Commission Bylaws",
+        "type": "bylaws",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/6399/638090240595070000",
+        "description": "Official bylaws of the Planning Commission"
+      },
+      {
+        "title": "Planning Commission Agendas and Minutes",
+        "type": "agendas/minutes",
+        "url": "https://www.elsegundo.org/government/departments/city-clerk/agendas-minutes",
+        "description": "Collection of Planning Commission meeting agendas and minutes"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [
+      {
+        "type": "Conditional Use Permits",
+        "description": "Permits reviewed by Planning Commission",
+        "fee": "",
+        "requirements": []
+      },
+      {
+        "type": "Subdivisions",
+        "description": "Subdivision applications reviewed by Planning Commission",
+        "fee": "",
+        "requirements": []
+      },
+      {
+        "type": "Variances",
+        "description": "Variance applications reviewed by Planning Commission",
+        "fee": "",
+        "requirements": []
+      }
+    ],
+    "public_meetings": [
+      {
+        "type": "Planning Commission Meeting",
+        "frequency": "second and fourth Thursday of each month",
+        "location": "",
+        "contact": ""
+      }
+    ],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The Planning Commission makes recommendations to the City Council on the adoption or amendment of the City's General Plan; performs duties with respect to land subdivision, planning and zoning as prescribed by City and State law. For agendas and minutes before January 2020, residents need to contact the City Clerk's office to request records."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 303,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079542"
+}

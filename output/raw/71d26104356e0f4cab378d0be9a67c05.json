@@ -1,0 +1,120 @@
+{
+  "url": "",
+  "content_hash": "71d26104356e0f4cab378d0be9a67c05",
+  "raw_text": "# Planning Division Handouts and Forms\n\nFrequently used Planning Division handouts and forms can be found below.\n\nFor all other permit applications, general inquiries, and related matters, please visit our [EZ Permit Hub](https://elsegundoca.portal.opengov.com/categories/1078) to submit any inquiries. The new system provides a user-friendly interface to streamline the process and improve staff ability to respond in a timely manner and track the status of your inquiry.\n\nIf you have any questions or need assistance, feel free to reach out to our dedicated support team at 310-524-2380. They will be happy to help you navigate the new system or address any concerns you may have.\n\n## Handouts and Forms\n\n- Urban Lot Splits & Two-unit Development in the R1 Zone\n- Environmental Information Form\n- Construction Questionnaire\n- Landscaping Regulations\n- Landscape Compliance Certificate\n- Water Calculations Sample\n- Sample Mailing List\n- SB 330 Residential and Protected Unit Determination Forms\n\nFree viewers are required for some of the attached documents.\nThey can be downloaded by clicking on the icons below.",
+  "structured_data": {
+    "overview": "Information about Planning Division handouts and forms, including a new EZ Permit Hub system for permit applications and inquiries.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Division"
+    ],
+    "services": [
+      "Permit applications",
+      "Planning inquiries",
+      "EZ Permit Hub"
+    ],
+    "contacts": [
+      {
+        "name": "",
+        "title": "",
+        "phone": "310-524-2380",
+        "email": "",
+        "department": "Planning Division"
+      }
+    ],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "Urban Lot Splits & Two-unit Development in the R1 Zone",
+        "type": "handout",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Environmental Information Form",
+        "type": "form",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Construction Questionnaire",
+        "type": "form",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Landscaping Regulations",
+        "type": "handout",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Landscape Compliance Certificate",
+        "type": "form",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Water Calculations Sample",
+        "type": "sample",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "Sample Mailing List",
+        "type": "sample",
+        "url": "",
+        "description": ""
+      },
+      {
+        "title": "SB 330 Residential and Protected Unit Determination Forms",
+        "type": "form",
+        "url": "",
+        "description": ""
+      }
+    ],
+    "news": [],
+    "forms": [
+      {
+        "name": "EZ Permit Hub",
+        "type": "application",
+        "purpose": "Submit permit applications and inquiries",
+        "url": "https://elsegundoca.portal.opengov.com/categories/1078",
+        "fields": [],
+        "requirements": []
+      }
+    ],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": "310-524-2380"
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "Free viewers are required for some of the attached documents. They can be downloaded by clicking on the icons below."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 169,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079860"
+}

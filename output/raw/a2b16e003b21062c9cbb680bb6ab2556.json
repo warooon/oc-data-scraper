@@ -1,0 +1,121 @@
+{
+  "url": "",
+  "content_hash": "a2b16e003b21062c9cbb680bb6ab2556",
+  "raw_text": "# The General Plan\n\nThe General Plan serves as a blueprint for future growth and development, prescribing policy goals and objectives to shape and guide the development of the City. It serves as a comprehensive policy document that informs future land use decisions, establishes land use designations and policies that identify a range of zoning options that can be applied to property and assists decision makers as they review planning applications for new projects or consider proposals for ordinances or policies.\n\nThe General Plan is made up of 10 elements: Economic Development, Land Use, Circulation, Housing, Open Space and Recreation, Conservation, Air Quality, Noise, Safety, Hazardous Materials and Waste Management. These elements provide the City's foundation guide for planning and identify how land should be used and resources allocated. It is the vision for how the City will evolve and reflects the values and priorities of the community.\n\n---\n\n## The City of El Segundo General Plan\n\n- General Plan Introduction\n- Economic Development Element\n- Land Use Element\n- Circulation Element\n- Housing Element 2021-2029\n- Open Space and Recreation Element\n- Conservation Element\n- Air Quality Element\n- Noise Element\n- Public Safety Element\n- Hazardous Materials & Waste Management Element\n- Appendix\n\nFree viewers are required for some of the attached documents.\nThey can be downloaded by clicking on the icons below.",
+  "structured_data": {
+    "overview": "The General Plan serves as a blueprint for future growth and development of the City of El Segundo, prescribing policy goals and objectives to shape and guide development. It's a comprehensive policy document that informs land use decisions and establishes designations and policies for zoning options.",
+    "city_name": "El Segundo",
+    "departments": [],
+    "services": [],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "General Plan Introduction",
+        "type": "planning document",
+        "url": "",
+        "description": "Introduction to the city's General Plan"
+      },
+      {
+        "title": "Economic Development Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on economic development"
+      },
+      {
+        "title": "Land Use Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on land use"
+      },
+      {
+        "title": "Circulation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on circulation"
+      },
+      {
+        "title": "Housing Element 2021-2029",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on housing for 2021-2029"
+      },
+      {
+        "title": "Open Space and Recreation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on open space and recreation"
+      },
+      {
+        "title": "Conservation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on conservation"
+      },
+      {
+        "title": "Air Quality Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on air quality"
+      },
+      {
+        "title": "Noise Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on noise"
+      },
+      {
+        "title": "Public Safety Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on public safety"
+      },
+      {
+        "title": "Hazardous Materials & Waste Management Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the General Plan focusing on hazardous materials and waste management"
+      },
+      {
+        "title": "Appendix",
+        "type": "planning document",
+        "url": "",
+        "description": "Appendix to the General Plan"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The General Plan is made up of 10 elements: Economic Development, Land Use, Circulation, Housing, Open Space and Recreation, Conservation, Air Quality, Noise, Safety, Hazardous Materials and Waste Management. These elements provide the City's foundation guide for planning and identify how land should be used and resources allocated. It is the vision for how the City will evolve and reflects the values and priorities of the community. Free viewers are required for some of the attached documents."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 225,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748080959"
+}

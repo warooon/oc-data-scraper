@@ -57,6 +57,7 @@ async def main():
                 if html and url:
                     pdfs = extract_pdf_links(html, url)
                     pdf_links.extend(pdfs)
+                    print(f"🔗 Extracted {len(pdfs)} PDFs from {url}")
         
         # Process PDFs
         if pdf_links:

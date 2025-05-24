@@ -1,0 +1,66 @@
+{
+  "url": "",
+  "content_hash": "d8c945463252b17ea31651516c6031f0",
+  "raw_text": "# El Segundo General Plan - 1992 7. Conservation Element\n\n## Introduction\n\n### Purpose and Authority\nCalifornia Government Code Section 65302(d) provides that the general plan shall include a conservation element for the conservation, development, and utilization of natural resources. To the extent applicable, the following issues must be addressed: water and hydrology, forests, soils, rivers and other waters, harbors and fisheries, wildlife, minerals, and other natural resources.\n\n### Overview\nThe Conservation Element addresses four relevant conservation issues for the City of El Segundo: coastal resources, water resources, biotic resources, and mineral resources. Due to the regional context of resources such as water, coastal access, and oil fields, it is necessary that the City cooperates with adjacent communities and with federal, state, and regional agencies to maintain and improve the quality of these resources and the environment.\n\n## Summary of Existing Conditions\n\n### Coastal Resources\n- The western boundary includes 0.8 miles of shoreline adjacent to Santa Monica Bay\n- The coastal area hosts two coastal-dependent energy facilities and has been developed primarily for industrial use\n- The beach area is subject to erosion from littoral transport and storm damage\n- Recreational use is relatively light due to the industrial nature of the area\n- The beach is publicly-owned and accessible through Dockweiler State Beach to the north and Manhattan State Beach to the south\n\n### Water Resources\n- No surface waters of resource potential exist within the City\n- El Segundo is located within the West Coast Groundwater Basin\n- Since 1973, El Segundo has purchased all potable water from the West Basin Municipal Water District\n- Water consumption: 64% oil refinery, 18% industrial, 18% residential/commercial\n- The proposed West Basin Water Reclamation Program aims to reclaim secondary-treated effluent from Hyperion Treatment Plant\n\n### Biotic Resources\n- Native vegetation has been displaced by urban structures and landscaping\n- The El Segundo Blue Butterfly (federally endangered) occurs on a 1.96 acre preserve adjacent to the Chevron Refinery\n- Approximately 5,500 street trees are maintained by the City's Parks and Recreation Department\n- Forty-six species of birds are common to the area\n\n### Mineral Resources\n- The El Segundo Oil Field was discovered in 1935\n- The field has produced over 14 million barrels of oil and condensate\n- Production has declined since 1967, with only five wells continuing to produce\n\n## Goals, Objectives, and Policies\n\n### Goal CN1: Beach Preservation\nEnsure long-term public access to a safe, clean beach environment within and adjacent to the City.\n\n**Policies:**\n- Review and update the Local Coastal Program\n- Monitor coastal water ordinances and compliance with requirements\n- Monitor beach erosion and contamination cleanup\n- Establish policies for watershed and storm water management\n\n### Goal CN2: Water Supply\nAssist in the maintenance of a safe and sufficient water supply and distribution system.\n\n**Policies:**\n- Periodically evaluate the water supply and distribution system\n- Devise strategies to cope with interruptions in potable water supply\n- Investigate creating a new water conservation ordinance\n- Implement water conservation measures as necessary\n- Require water-conserving fixtures in new construction\n- Encourage retrofitting existing systems with water-conserving fixtures\n- Require sound landscape design principles in new construction\n- Determine heavy water users and require water budget plans\n- Utilize programs from state and regional water agencies\n- Examine alternative water supplies\n\n### Goal CN3: Groundwater Contamination\nProtect groundwater and coastal waters from contamination.\n\n**Policies:**\n- Identify source contamination originating within City limits\n- Require written notification of groundwater contamination\n- Monitor compliance with state or regional permitting agencies\n- Make permit and compliance information available to the community\n\n### Goal CN4: El Segundo Blue Butterfly\nProtect the rare and endangered El Segundo Blue Butterfly.\n\n**Policies:**\n- Develop environmental protection policies for sensitive habitat areas\n- Protect the coastal habitat of the El Segundo Blue Butterfly\n- Work with Chevron Refinery to monitor habitat conditions\n- Designate the butterfly habitat as open space in the Land Use Element\n- Promote research on potential effects of Malathion spraying on the butterfly\n\n### Goal CN5: Urban Landscape\nDevelop programs to protect, enhance, and increase the amount and quality of the urban landscape.\n\n**Policies:**\n- Preserve the character of existing neighborhood and civic landscapes\n- Identify valued characteristics of the urban landscape\n- Survey existing street trees and specimen trees\n- Establish density and development standards that protect neighborhood character\n- Establish a street tree program with inventory and maintenance standards\n- Encourage new landscaped areas to incorporate existing community landscape elements\n- Support community action groups in urban landscape enhancement\n- Increase plant quantity to improve air quality and water management\n- Increase plant diversity for ecosystem health\n- Develop standards for sound landscape design and management",
+  "structured_data": {
+    "overview": "The document is the Conservation Element of the El Segundo General Plan from 1992, which addresses coastal resources, water resources, biotic resources, and mineral resources in the city. It outlines goals, objectives, and policies for preserving these natural resources.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Parks and Recreation Department"
+    ],
+    "services": [
+      "Water distribution",
+      "Street tree maintenance"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "El Segundo General Plan - 1992 7. Conservation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Conservation element of the city's general plan addressing natural resources"
+      },
+      {
+        "title": "Local Coastal Program",
+        "type": "planning document",
+        "url": "",
+        "description": "Program for coastal management referenced for review and update"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "El Segundo has 0.8 miles of shoreline adjacent to Santa Monica Bay. The city contains the El Segundo Oil Field discovered in 1935 which has produced over 14 million barrels of oil. The city is home to the endangered El Segundo Blue Butterfly which lives on a 1.96 acre preserve adjacent to the Chevron Refinery. The city maintains approximately 5,500 street trees and purchases all potable water from the West Basin Municipal Water District since 1973. Water consumption in the city is distributed as: 64% oil refinery, 18% industrial, and 18% residential/commercial."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 786,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748080815"
+}

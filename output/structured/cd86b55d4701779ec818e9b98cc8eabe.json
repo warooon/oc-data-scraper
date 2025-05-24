@@ -1,0 +1,69 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "This page lists planning and development fees for the City of El Segundo, including development impact fees, parking in-lieu fee payment procedures, and the master fee schedule.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning and Development"
+    ],
+    "services": [
+      "Development fee information"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "Development Impact Fees Resolution 5347",
+        "type": "resolution",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/5749/637933271834770000",
+        "description": "Development Impact Fees (Effective 09/01/2022)"
+      },
+      {
+        "title": "Parking In-lieu Fee Payment Procedures Resolution 5478",
+        "type": "resolution",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/8713/638509274139500000",
+        "description": "Parking In-lieu Fee Payment Procedures (Effective 05/07/2024)"
+      },
+      {
+        "title": "Master fee schedule FY24-25",
+        "type": "fee schedule",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/8884/638539512842630000",
+        "description": "Master fee schedule for fiscal year 2024-2025 (Effective July 8, 2024)"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The page provides links to official documents detailing various fees related to planning and development in El Segundo, including development impact fees, parking in-lieu fees, and the master fee schedule for the current fiscal year."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 42,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079332"
+}

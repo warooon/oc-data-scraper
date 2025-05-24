@@ -17,9 +17,16 @@ class Config:
     
     # Target URLs - Add your city websites here
     TARGET_URLS = [
-        "https://www.elsegundo.org/",
-        "https://311.sanantonio.gov/",
-        "https://www.sanantonio.gov/",
+        # "https://www.elsegundo.org/",
+        # "https://311.sanantonio.gov/",
+        # "https://www.sanantonio.gov/",
+        # "https://311.sanantonio.gov/services/missed-waste-collection",
+        # "https://www.elsegundo.org/government/departments/community-development/planning-division/",
+        # "https://www.elsegundorecparks.org/programs-services/recreation-programs-activities/resident-recreation-id-information",
+        # "https://www.elsegundo.org/home/showpublisheddocument/360/637110574180030000",
+        # "https://www.elsegundo.org/home/showpublisheddocument/370/637110579849570000"
+        # "https://311.sanantonio.gov/kb/docs/private/graffiti-and-waste-collection/grow-over-graffiti"
+        "https://www.elsegundo.org/government/departments/community-development/planning-division/general-plan"
         # Add more city websites as needed
     ]
     

@@ -1,0 +1,119 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "The General Plan serves as a blueprint for future growth and development of the City, prescribing policy goals and objectives to shape and guide development. It's a comprehensive policy document for future land use decisions and consists of 10 elements.",
+    "city_name": "El Segundo",
+    "departments": [],
+    "services": [],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "General Plan Introduction",
+        "type": "planning document",
+        "url": "",
+        "description": "Introduction to the city's general plan"
+      },
+      {
+        "title": "Economic Development Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on economic development"
+      },
+      {
+        "title": "Land Use Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on land use"
+      },
+      {
+        "title": "Circulation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on circulation"
+      },
+      {
+        "title": "Housing Element 2021-2029",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on housing for 2021-2029"
+      },
+      {
+        "title": "Open Space and Recreation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on open space and recreation"
+      },
+      {
+        "title": "Conservation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on conservation"
+      },
+      {
+        "title": "Air Quality Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on air quality"
+      },
+      {
+        "title": "Noise Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on noise"
+      },
+      {
+        "title": "Public Safety Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on public safety"
+      },
+      {
+        "title": "Hazardous Materials & Waste Management Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Element of the general plan focusing on hazardous materials and waste management"
+      },
+      {
+        "title": "Appendix",
+        "type": "planning document",
+        "url": "",
+        "description": "Appendix to the general plan"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The General Plan is made up of 10 elements: Economic Development, Land Use, Circulation, Housing, Open Space and Recreation, Conservation, Air Quality, Noise, Safety, Hazardous Materials and Waste Management. These elements provide the City's foundation guide for planning and identify how land should be used and resources allocated. It is the vision for how the City will evolve and reflects the values and priorities of the community. Free viewers are required for some of the attached documents."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 225,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748080136"
+}

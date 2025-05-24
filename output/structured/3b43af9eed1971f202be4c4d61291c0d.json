@@ -1,0 +1,83 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "This content provides environmental CEQA (California Environmental Quality Act) information for the City of El Segundo, including cumulative projects, transportation impact analysis resources, and General Plan Environmental Impact Reports.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Community Development",
+      "Planning Division"
+    ],
+    "services": [
+      "Environmental/CEQA Information",
+      "Transportation Impact Analysis"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "CUMULATIVE PROJECTS",
+        "type": "PDF",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10547/638786036462270000",
+        "description": "List of major proposed or approved but not completed projects within the City of El Segundo"
+      },
+      {
+        "title": "SB 743 Implementation Guidelines (VMT Policy)",
+        "type": "Policy Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/5987/638270835995900000",
+        "description": "The City's policy that establishes Vehicle Miles Travelled (VMT) as the metric for evaluating the transportation impact of development projects"
+      },
+      {
+        "title": "Draft EIR (Volume 1)",
+        "type": "Environmental Impact Report",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/8719/638512821201730000",
+        "description": "General Plan Environmental Impact Report (1991)"
+      },
+      {
+        "title": "Draft EIR Appendices (Volume 2)",
+        "type": "Environmental Impact Report",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/8721/638512821918130000",
+        "description": "General Plan Environmental Impact Report Appendices (1991)"
+      },
+      {
+        "title": "Final EIR",
+        "type": "Environmental Impact Report",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/8723/638512822470870000",
+        "description": "Final General Plan Environmental Impact Report (1991)"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The city provides a TredLite Transportation Impact Analysis Tool (https://tredlite.kimley-horn.com/sites/elsegundo/) for conducting transportation impact analysis pursuant to the City's VMT Policy. For Environmental/CEQA information for specific projects, residents can visit the Approved Projects page at https://www.elsegundo.org/government/departments/community-development/planning-division/active-projects#!/."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 119,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079915"
+}

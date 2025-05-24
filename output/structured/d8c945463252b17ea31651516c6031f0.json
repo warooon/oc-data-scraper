@@ -1,0 +1,64 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "The document is the Conservation Element of the El Segundo General Plan from 1992, which addresses coastal resources, water resources, biotic resources, and mineral resources in the city. It outlines goals, objectives, and policies for preserving these natural resources.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Parks and Recreation Department"
+    ],
+    "services": [
+      "Water distribution",
+      "Street tree maintenance"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "El Segundo General Plan - 1992 7. Conservation Element",
+        "type": "planning document",
+        "url": "",
+        "description": "Conservation element of the city's general plan addressing natural resources"
+      },
+      {
+        "title": "Local Coastal Program",
+        "type": "planning document",
+        "url": "",
+        "description": "Program for coastal management referenced for review and update"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "El Segundo has 0.8 miles of shoreline adjacent to Santa Monica Bay. The city contains the El Segundo Oil Field discovered in 1935 which has produced over 14 million barrels of oil. The city is home to the endangered El Segundo Blue Butterfly which lives on a 1.96 acre preserve adjacent to the Chevron Refinery. The city maintains approximately 5,500 street trees and purchases all potable water from the West Basin Municipal Water District since 1973. Water consumption in the city is distributed as: 64% oil refinery, 18% industrial, and 18% residential/commercial."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 786,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748080815"
+}

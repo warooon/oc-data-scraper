@@ -3,24 +3,62 @@ import boto3
 import re
 import logging
 from pathlib import Path
-from typing import List
+from typing import List, Dict
 from config import Config
+from urllib.parse import urljoin
+from playwright.async_api import async_playwright
 
-def extract_pdf_links(html: str, base_url: str) -> List[str]:
-    """Extract PDF links from HTML"""
-    from urllib.parse import urljoin
+
+
+# def extract_pdf_links(html: str, base_url: str) -> List[str]:
+#     """Extract PDF links from HTML"""
     
-    pdf_links = re.findall(r'href=[\'"]?([^\'" >]+\.pdf)', html, re.I)
+#     pdf_links = re.findall(r'href=[\'"]?([^\'" >]+\.pdf)', html, re.I)
     
-    # Convert relative URLs to absolute
-    absolute_links = []
-    for link in pdf_links:
-        if link.startswith('http'):
-            absolute_links.append(link)
-        else:
-            absolute_links.append(urljoin(base_url, link))
+#     # Convert relative URLs to absolute
+#     absolute_links = []
+#     for link in pdf_links:
+#         if link.startswith('http'):
+#             absolute_links.append(link)
+#         else:
+#             absolute_links.append(urljoin(base_url, link))
     
-    return list(set(absolute_links))  # Remove duplicates
+#     return list(set(absolute_links))  # Remove duplicates
+
+
+async def extract_pdf_links(url: str) -> list:
+    pdf_links = set()
+    
+    print("extracting pdf links")
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        page = await browser.new_page()
+        await page.goto(url)
+
+        elements = await page.query_selector_all("a, iframe, embed, object")
+
+        for el in elements:
+            for attr in ['href', 'src', 'data']:
+                val = await el.get_attribute(attr)
+                if val and ('.pdf' in val.lower()):
+                    full_url = page.url if val.startswith('http') else page.url + val
+                    pdf_links.add(full_url)
+
+            # Check for MIME type hints
+            type_attr = await el.get_attribute('type')
+            if type_attr and 'pdf' in type_attr.lower():
+                src = await el.get_attribute('src') or await el.get_attribute('data')
+                if src:
+                    full_url = page.url if src.startswith('http') else page.url + src
+                    pdf_links.add(full_url)
+
+        await browser.close()
+        
+        print(pdf_links)
+
+    return list(pdf_links)
+
 
 def compress_directory(directory: str, archive_name: str):
     """Create compressed archive of directory"""

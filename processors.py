@@ -179,13 +179,13 @@ class ContentProcessor:
         
         Content:
         {combined_text[:60000]}
+        
+        Make sure to begin json with curly braces!
         """
         
-        try:
-            result = self._call_claude(prompt)
-            return json.loads(result) if result.strip().startswith('{') else {}
-        except:
-            return {}
+        result = self._call_claude(prompt)
+        return self._extract_json_block(result)
+
     
     def _extract_pdf_data(self, text: str) -> Dict[str, Any]:
         """Extract structured data from PDF"""
@@ -206,15 +206,14 @@ class ContentProcessor:
           "summary": "brief summary of document"
         }}
         
+        Make sure to begin json with curly braces!
+        
         PDF Text:
         {text[:40000]}
         """
         
-        try:
-            result = self._call_claude(prompt)
-            return json.loads(result) if result.strip().startswith('{') else {}
-        except:
-            return {}
+        result = self._call_claude(prompt)
+        return self._extract_json_block(result)
     
     def _call_claude(self, prompt: str) -> str:
         """Call Claude API via Bedrock"""
@@ -248,6 +247,17 @@ class ContentProcessor:
         except Exception as e:
             print(f"❌ PDF download failed: {e}")
             return None
+    
+    def _extract_json_block(self, text: str) -> Dict[str, Any]:
+        """Extract and parse the first JSON object in a string"""
+        try:
+            match = re.search(r'{.*}', text, re.DOTALL)
+            if match:
+                return json.loads(match.group(0))
+        except Exception as e:
+            print(f"⚠️ JSON extraction failed: {e}")
+        return {}
+
 
 class DataSaver:
     """Simple data saver"""

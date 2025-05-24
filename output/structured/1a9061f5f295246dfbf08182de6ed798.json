@@ -1,0 +1,120 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "Information page about pending planning projects in the City of El Segundo, including project details, current status, and contact information for various development projects.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Division"
+    ],
+    "services": [
+      "Planning Project Information",
+      "EZ Permit Hub"
+    ],
+    "contacts": [
+      {
+        "name": "Eduardo Schonborn",
+        "title": "Planning Manager, AICP",
+        "phone": "310-524-2312",
+        "email": "eschonborn@elsegundo.org",
+        "department": "Planning Division"
+      },
+      {
+        "name": "Maria Baldenegro",
+        "title": "Assistant Planner",
+        "phone": "310-524-2341",
+        "email": "mbaldenegro@elsegundo.org",
+        "department": "Planning Division"
+      },
+      {
+        "name": "Paul Samaras",
+        "title": "Principal Planner, AICP",
+        "phone": "310-524-2340",
+        "email": "psamaras@elsegundo.org",
+        "department": "Planning Division"
+      }
+    ],
+    "meetings": [
+      {
+        "title": "Scoping Meeting",
+        "date": "2/26/2025",
+        "time": "",
+        "location": "",
+        "agenda": "Grand Kansas North Project"
+      }
+    ],
+    "documents": [
+      {
+        "title": "Notice of Preparation (NOP) of an Environmental Impact Report and Public Scoping Meeting",
+        "type": "Planning Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10208/638742607630170000",
+        "description": "For Grand Kansas North project"
+      },
+      {
+        "title": "Amended Notice of Preparation (NOP)",
+        "type": "Planning Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10388/638767563739970000",
+        "description": "For Grand Kansas North project"
+      },
+      {
+        "title": "Initial Study",
+        "type": "Planning Document",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10222/638743398094630000",
+        "description": "For Grand Kansas North project"
+      },
+      {
+        "title": "Scoping Meeting Power Point Presentation",
+        "type": "Presentation",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/10364/638761844510570000",
+        "description": "From 2/26/2025 meeting"
+      },
+      {
+        "title": "Scoping Meeting Video",
+        "type": "Video",
+        "url": "https://youtube.com/live/e6xc3grwT_A",
+        "description": "From 2/26/2025 meeting"
+      },
+      {
+        "title": "Proposed Project Plans",
+        "type": "Planning Document",
+        "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c60750ec-44f8-49a6-836e-7c82905e665e",
+        "description": "For Grand Kansas North project"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": true,
+      "description": "Sign up for updates related to zoning, projects, CEQA, Planning Commission, and other planning topics",
+      "requirements": [],
+      "benefits": [
+        "Receive updates on planning topics"
+      ]
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The page lists four pending planning projects: 1) Grand Kansas North (EA-1353): 323 rental units in 3-6 story building with 490 parking spaces, 2) 201-209 Richmond Street Mixed Use Project (EA-1299): Application incomplete pending Parking Demand Study, 3) Grand Kansas South (EA-1371): 102,000 SQFT office project withdrawn by applicant, 4) 703 N. Pacific Coast Hwy Mixed Use Project (EA 1325): 8-level mixed-use building with commercial space, parking, and 79 residential units."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 361,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079389"
+}

@@ -1,0 +1,116 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "The Planning Division of El Segundo promotes the well-being of residents, visitors, property owners and businesses through long-range planning via the General Plan and specific development standards in the Zoning Code.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Division"
+    ],
+    "services": [
+      "Zoning Code",
+      "General Plan",
+      "Specific Plans",
+      "Planning Commission",
+      "Planning Applications",
+      "Handouts and Forms",
+      "Request a Zoning Letter",
+      "Development Projects",
+      "Environmental/CEQA Information",
+      "Maps",
+      "Development Fees"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "Zoning Code",
+        "type": "regulatory document",
+        "url": "",
+        "description": "Regulates size and height of buildings, specific types of uses and establishes procedures for development approvals"
+      },
+      {
+        "title": "General Plan",
+        "type": "planning document",
+        "url": "",
+        "description": "Serves as the City's road map and guides the overall form of the City"
+      }
+    ],
+    "news": [],
+    "forms": [
+      {
+        "name": "Planning Applications",
+        "type": "application",
+        "purpose": "For development approvals such as Use Permits, Modifications and Variances",
+        "url": "",
+        "fields": [],
+        "requirements": []
+      },
+      {
+        "name": "Zoning Letter Request",
+        "type": "application",
+        "purpose": "To request a zoning letter",
+        "url": "",
+        "fields": [],
+        "requirements": []
+      }
+    ],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [
+      {
+        "type": "Use Permits",
+        "description": "Approval for specific types of uses",
+        "fee": "",
+        "requirements": []
+      },
+      {
+        "type": "Modifications",
+        "description": "Approval for modifications to existing structures",
+        "fee": "",
+        "requirements": []
+      },
+      {
+        "type": "Variances",
+        "description": "Approval for exceptions to zoning requirements",
+        "fee": "",
+        "requirements": []
+      }
+    ],
+    "public_meetings": [
+      {
+        "type": "Planning Commission",
+        "frequency": "",
+        "location": "",
+        "contact": ""
+      }
+    ],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The Planning Division offers resources including specific plans, handouts and forms, development projects information, environmental/CEQA information, maps, and development fees information."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 132,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079317"
+}

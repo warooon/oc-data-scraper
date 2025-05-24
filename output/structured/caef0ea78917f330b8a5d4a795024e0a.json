@@ -1,0 +1,238 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "This content provides information about approved planning projects within the City of El Segundo, including project statuses, details, and supporting documents.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Division"
+    ],
+    "services": [
+      "Planning Project Approvals",
+      "Permit Processing",
+      "Project Reviews"
+    ],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "Public Review IS/MND",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 444 North Nash Street project"
+      },
+      {
+        "title": "Mitigation Monitoring and Reporting Program",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 444 North Nash Street project"
+      },
+      {
+        "title": "Responses to Comments MND",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 444 North Nash Street project"
+      },
+      {
+        "title": "Modeling Technical Memorandum",
+        "type": "Technical Document",
+        "url": "",
+        "description": "For 444 North Nash Street project"
+      },
+      {
+        "title": "Proposed Project Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For Nash Street Exchange Retail Development"
+      },
+      {
+        "title": "EA-1200 Revision B: Trip Generation Memo",
+        "type": "Technical Document",
+        "url": "",
+        "description": "For Nash Street Exchange Retail Development"
+      },
+      {
+        "title": "EA-1200 Revision B: Revised Trip Generation Memo",
+        "type": "Technical Document",
+        "url": "",
+        "description": "For Nash Street Exchange Retail Development"
+      },
+      {
+        "title": "EA-1200 Revision B: Drive-Through Queuing Analysis",
+        "type": "Technical Document",
+        "url": "",
+        "description": "For Nash Street Exchange Retail Development"
+      },
+      {
+        "title": "PCC Project - Frequently asked questions",
+        "type": "Information Document",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Pacific Coast Commons Specific Plan Draft Environmental Impact Report",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Pacific Coast Commons DEIR Appendices",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Mitigation Monitoring and Reporting Program",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Pacific Coast Commons Final EIR",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Findings of Fact and Statement of Overriding Consideration",
+        "type": "Legal Document",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Project Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For Pacific Coast Commons project"
+      },
+      {
+        "title": "Standard Works Initial Study Public Draft",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Standard Works Project"
+      },
+      {
+        "title": "Mitigation Monitoring and Reporting Program",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Standard Works Project"
+      },
+      {
+        "title": "Technical Studies",
+        "type": "Technical Document",
+        "url": "",
+        "description": "For Standard Works Project"
+      },
+      {
+        "title": "Master Sign Program",
+        "type": "Project Document",
+        "url": "",
+        "description": "For Standard Works Project"
+      },
+      {
+        "title": "Proposed Development Plans (North)",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For Standard Works Project"
+      },
+      {
+        "title": "Proposed Development Plans (South)",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For Standard Works Project"
+      },
+      {
+        "title": "Planning Commission Resolution No. 2952 (2nd Map Extension)",
+        "type": "Legal Document",
+        "url": "",
+        "description": "For 650-700 North Pacific Coast Highway project"
+      },
+      {
+        "title": "Final MND (with Technical Studies)",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 650-700 North Pacific Coast Highway project"
+      },
+      {
+        "title": "Draft MND",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 650-700 North Pacific Coast Highway project"
+      },
+      {
+        "title": "Proposed Development Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For 650-700 North Pacific Coast Highway project"
+      },
+      {
+        "title": "1950-1960 E. Grand Ave Project Draft MND",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 1950-1960 E. Grand Ave Project"
+      },
+      {
+        "title": "1950-1960 E Grand Ave Project Final MND",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For 1950-1960 E. Grand Ave Project"
+      },
+      {
+        "title": "1950-1960 E Grand Ave Project Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For 1950-1960 E. Grand Ave Project"
+      },
+      {
+        "title": "Beach Cities Proposed Project Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For Beach Cities Media Campus Project"
+      },
+      {
+        "title": "Beach Cities MND",
+        "type": "Environmental Document",
+        "url": "",
+        "description": "For Beach Cities Media Campus Project"
+      },
+      {
+        "title": "Smoky Hollow Parking Structure Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For Smoky Hollow Parking Structure project"
+      },
+      {
+        "title": "LA Times Project Plans",
+        "type": "Project Plans",
+        "url": "",
+        "description": "For LA Times Gallery and Archive Building"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": true,
+      "description": "Sign up for updates related to zoning, projects, CEQA, Planning Commission, and other planning topics",
+      "requirements": [],
+      "benefits": [
+        "Receive updates on planning topics"
+      ]
+    },
+    "office_hours": {},
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {},
+    "other_info": "The page provides detailed information about multiple approved development projects in El Segundo, including their current status, project descriptions, and supporting documentation. Projects include data centers, retail developments, mixed-use developments, office buildings, and parking structures. For general inquiries, residents can visit the EZ Permit Hub to submit inquiries to the Planning Division."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 1139,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079837"
+}

@@ -1,0 +1,55 @@
+{
+  "url": "",
+  "content_hash": "a33e9cbcd8034ef14d0de6247094dc8e",
+  "raw_text": "# Climate Action Plan - City of El Segundo\n\nJurisdictions in California are proactively working to find innovative solutions to reduce emissions. Many communities have taken local control of the issue by developing plans or strategies that will lower Greenhouse Gas (GHG) emissions across various sectors in a manner that is most feasible for their community. The City of El Segundo Climate Action Plan is a valuable tool in this effort. It identifies community-wide strategies to lower GHG emissions from a range of sources within the jurisdiction, including transportation, land use, energy generation and consumption, water and waste.\n\nDevelopment and adoption of this Climate Action Plan allows the City to understand the community GHG emissions that are now produced, identify strategies at the local level that will result in GHG emissions reductions, develop a plan to implement strategies and monitor and report progress toward climate change goals. This is done for the purpose of:\n\n- Enhancing the community and neighborhoods to ensure a safe, healthy and sustainable environment\n- Promoting and encouraging the adoption and growth of zero-emission vehicles\n- Advancing strategies for housing and buildings that reduce energy and water usage\n- Promoting behavior changes that reduce waste\n- Transforming built environments into green spaces\n- Advancing strategies to encourage and support the market for renewable energy and storage\n\n## Documents\n\n- [City of El Segundo Climate Action Plan (PDF)](https://www.elsegundo.org/home/showpublisheddocument/1173/637145182772800000)",
+  "structured_data": {
+    "overview": "The City of El Segundo Climate Action Plan is a tool to identify community-wide strategies to lower Greenhouse Gas (GHG) emissions across various sectors including transportation, land use, energy generation and consumption, water and waste.",
+    "city_name": "El Segundo",
+    "departments": [],
+    "services": [],
+    "contacts": [],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "City of El Segundo Climate Action Plan",
+        "type": "PDF",
+        "url": "https://www.elsegundo.org/home/showpublisheddocument/1173/637145182772800000",
+        "description": "The Climate Action Plan document for the City of El Segundo"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The Climate Action Plan aims to enhance the community environment, promote zero-emission vehicles, reduce energy and water usage in buildings, reduce waste, transform built environments into green spaces, and support renewable energy and storage markets."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 231,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079410"
+}

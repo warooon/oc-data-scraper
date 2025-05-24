@@ -1,0 +1,145 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "This content describes planning applications and permits for the City of El Segundo, including information about the approval process, temporary use permits, entertainment permits, and various application types.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Community Development Department",
+      "Planning Commission",
+      "City Council"
+    ],
+    "services": [
+      "Planning Applications",
+      "Temporary Use Permits",
+      "Entertainment Permits"
+    ],
+    "contacts": [
+      {
+        "name": "",
+        "title": "",
+        "phone": "",
+        "email": "planning@elsegundo.org",
+        "department": "Planning"
+      }
+    ],
+    "meetings": [],
+    "documents": [],
+    "news": [],
+    "forms": [
+      {
+        "name": "Temporary Use Permit (TUP)",
+        "type": "application",
+        "purpose": "To allow a Temporary Outdoor Use such as a Parking Lot Sale, Employee Event, Dedication and Ceremonial Event on Private Property",
+        "url": "https://elsegundoca.portal.opengov.com/categories/1080",
+        "fields": [],
+        "requirements": [
+          "PDF and JPG file formats for attachments"
+        ]
+      },
+      {
+        "name": "Entertainment Permit",
+        "type": "permit",
+        "purpose": "Required for any premises allowing entertainment including dancing",
+        "url": "https://elsegundoca.portal.opengov.com/categories/1085",
+        "fields": [],
+        "requirements": [
+          "Application fee",
+          "Expires December 31 of the year of issuance"
+        ]
+      },
+      {
+        "name": "Amplified Sound Permit Application",
+        "type": "application",
+        "purpose": "",
+        "url": "",
+        "fields": [],
+        "requirements": []
+      },
+      {
+        "name": "Planning Application",
+        "type": "application",
+        "purpose": "",
+        "url": "",
+        "fields": [],
+        "requirements": []
+      },
+      {
+        "name": "Temporary Sign Permit Application",
+        "type": "application",
+        "purpose": "",
+        "url": "",
+        "fields": [],
+        "requirements": []
+      }
+    ],
+    "signup_info": {
+      "available": true,
+      "description": "Register and apply for permits through the El Segundo E-Z Permit Hub",
+      "requirements": [
+        "Electronic submission of applications, plans, and documents in PDF or JPG format"
+      ],
+      "benefits": [
+        "Single place for all applications, plan submittals, fee payments, reviews, permit issuance, inspection requests, and communication with City staff"
+      ]
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [
+      {
+        "type": "Temporary Use Permit",
+        "description": "For temporary outdoor uses such as parking lot sales, employee events, dedications, and ceremonial events on private property",
+        "fee": "",
+        "requirements": [
+          "Online application through E-Z Permit Hub"
+        ]
+      },
+      {
+        "type": "Entertainment Permit",
+        "description": "Required for premises allowing entertainment including dancing",
+        "fee": "Application fee (amount not specified)",
+        "requirements": [
+          "Expires December 31 of year issued",
+          "Permits issued after October 31 expire December 31 of the next year",
+          "Not required for nonprofit organizations",
+          "Not required for city property use unless leased for more than 7 consecutive days"
+        ]
+      }
+    ],
+    "public_meetings": [
+      {
+        "type": "Planning Commission",
+        "frequency": "",
+        "location": "",
+        "contact": ""
+      },
+      {
+        "type": "City Council",
+        "frequency": "",
+        "location": "",
+        "contact": ""
+      }
+    ],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The Planning Commission consists of five residents appointed by the City Council to review matters such as Use Permits, Variances, and higher-level planning and zoning decisions. The city offers numerous application guides for different types of permits and applications, including adjustment applications, use permits, appeals, development agreements, and more. There is also a fee schedule for applications including parking in-lieu fees and development impact fees."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 610,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748080091"
+}

@@ -1,0 +1,51 @@
+{
+  "url": "",
+  "content_hash": "32e9a53c2616949d5e3f7e5528a9d6af",
+  "raw_text": "# Error Page\n\nThis www.elsegundo.org page can't be found\n\nNo webpage was found for the web address: https://www.elsegundo.org/government/departments/community-development/planning-division/Vision2050@elsegundo.org\n\nHTTP ERROR 404",
+  "structured_data": {
+    "overview": "This is an error page indicating that a webpage on the El Segundo city website could not be found.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Community Development",
+      "Planning Division"
+    ],
+    "services": [],
+    "contacts": [],
+    "meetings": [],
+    "documents": [],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "The page at https://www.elsegundo.org/government/departments/community-development/planning-division/Vision2050@elsegundo.org returned a 404 error (page not found)."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 21,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748080100"
+}

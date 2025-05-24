@@ -1,0 +1,144 @@
+{
+  "url": "",
+  "structured_data": {
+    "overview": "Information about specific plans in the City of El Segundo, which are detailed development documents for smaller geographic areas that implement the goals of the General Plan.",
+    "city_name": "El Segundo",
+    "departments": [
+      "Planning Department"
+    ],
+    "services": [
+      "Urban Planning",
+      "Land Use Management"
+    ],
+    "contacts": [
+      {
+        "name": "",
+        "title": "",
+        "phone": "",
+        "email": "planning@elsegundo.org",
+        "department": "Planning Department"
+      }
+    ],
+    "meetings": [],
+    "documents": [
+      {
+        "title": "124th Street Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the 124th Street area"
+      },
+      {
+        "title": "199 North Continental Blvd Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for 199 North Continental Blvd area"
+      },
+      {
+        "title": "222 Kansas Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for 222 Kansas area"
+      },
+      {
+        "title": "540 East Imperial Ave Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for 540 East Imperial Ave area"
+      },
+      {
+        "title": "888 North Sepulveda Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for 888 North Sepulveda area"
+      },
+      {
+        "title": "Aviation Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the Aviation area"
+      },
+      {
+        "title": "Corporate Campus Specific Plan (CCSP)",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the Corporate Campus area"
+      },
+      {
+        "title": "Downtown Specific Plan (May 2024)",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the Downtown area, dated May 2024"
+      },
+      {
+        "title": "El Segundo Local Coastal Program",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for coastal areas"
+      },
+      {
+        "title": "El Segundo South Campus (Raytheon)",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the El Segundo South Campus (Raytheon) area"
+      },
+      {
+        "title": "Pacific Coast Commons",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the Pacific Coast Commons area"
+      },
+      {
+        "title": "Precise Plan 87-01 (Rosecrans/Douglas)",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the Rosecrans/Douglas area"
+      },
+      {
+        "title": "Smoky Hollow Specific Plan",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for the Smoky Hollow area"
+      },
+      {
+        "title": "The Lakes Specific Plan (Top Golf)",
+        "type": "Specific Plan",
+        "url": "",
+        "description": "Development standards for The Lakes (Top Golf) area"
+      }
+    ],
+    "news": [],
+    "forms": [],
+    "signup_info": {
+      "available": false,
+      "description": "",
+      "requirements": [],
+      "benefits": []
+    },
+    "office_hours": {
+      "days": "",
+      "hours": "",
+      "location": "",
+      "phone": ""
+    },
+    "permits_licenses": [],
+    "public_meetings": [],
+    "emergency_info": {
+      "phone": "",
+      "website": "",
+      "alerts": ""
+    },
+    "other_info": "Free viewers are required for some documents, including Acrobat Reader, Windows Media Player, Word Viewer, Excel Viewer, and PowerPoint Viewer."
+  },
+  "metadata": {
+    "title": "",
+    "word_count": 207,
+    "has_events": false,
+    "has_tables": false,
+    "has_forms": false,
+    "events_count": 0,
+    "tables_count": 0,
+    "forms_count": 0,
+    "form_types": []
+  },
+  "timestamp": "1748079436"
+}
